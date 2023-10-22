@@ -1,4 +1,4 @@
-# Submission of Sriwijaya University GDSC Backend Division
+# Submission of GDSC Backend Division
 
 This project is an example implementation of a class structure based on the Object-Oriented Programming (OOP) concept for an online store management system. In this project, we have three main classes: User, Order, and Cart.
 
